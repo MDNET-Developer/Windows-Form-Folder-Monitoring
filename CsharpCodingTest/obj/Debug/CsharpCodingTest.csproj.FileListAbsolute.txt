@@ -1,0 +1,11 @@
+C:\Users\Murad\Downloads\CsharpCodingTest\CsharpCodingTest\CsharpCodingTest\bin\Debug\CsharpCodingTest.exe.config
+C:\Users\Murad\Downloads\CsharpCodingTest\CsharpCodingTest\CsharpCodingTest\bin\Debug\CsharpCodingTest.exe
+C:\Users\Murad\Downloads\CsharpCodingTest\CsharpCodingTest\CsharpCodingTest\bin\Debug\CsharpCodingTest.pdb
+C:\Users\Murad\Downloads\CsharpCodingTest\CsharpCodingTest\CsharpCodingTest\obj\Debug\CsharpCodingTest.csproj.AssemblyReference.cache
+C:\Users\Murad\Downloads\CsharpCodingTest\CsharpCodingTest\CsharpCodingTest\obj\Debug\CsharpCodingTest.Properties.Resources.resources
+C:\Users\Murad\Downloads\CsharpCodingTest\CsharpCodingTest\CsharpCodingTest\obj\Debug\CsharpCodingTest.csproj.GenerateResource.cache
+C:\Users\Murad\Downloads\CsharpCodingTest\CsharpCodingTest\CsharpCodingTest\obj\Debug\CsharpCodingTest.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Downloads\CsharpCodingTest\CsharpCodingTest\CsharpCodingTest\obj\Debug\CsharpCodingTest.exe
+C:\Users\Murad\Downloads\CsharpCodingTest\CsharpCodingTest\CsharpCodingTest\obj\Debug\CsharpCodingTest.pdb
+C:\Users\Murad\Downloads\CsharpCodingTest\CsharpCodingTest\CsharpCodingTest\obj\Debug\CsharpCodingTest.FrmMainFolderMonitor.resources
+C:\Users\Murad\Downloads\CsharpCodingTest\CsharpCodingTest\CsharpCodingTest\obj\Debug\CsharpCodingTest.FrmSetting.resources
